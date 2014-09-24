@@ -1,0 +1,6 @@
+namespace TestBrowserLink.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
